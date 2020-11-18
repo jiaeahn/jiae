@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>초대합니다 :-)</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=yes" />
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jiaeahn/jiae/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
